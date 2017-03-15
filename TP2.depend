@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1487241747 source:z:\c++\tp2\main.cpp
+	<iostream>
+	"header.h"
+	"exo1.cpp"
+	"exo2.cpp"
+	"exo3.cpp"
+	"exo4.cpp"
+	"exo5.cpp"
+
+1487240119 z:\c++\tp2\header.h
+
+1487237846 z:\c++\tp2\exo1.cpp
+	<iostream>
+
+1487241021 z:\c++\tp2\exo2.cpp
+	<iostream>
+
+1487238841 z:\c++\tp2\exo3.cpp
+	<iostream>
+
+1487242194 z:\c++\tp2\exo5.cpp
+	<iostream>
+	<fstream>
+
+1487241787 z:\c++\tp2\exo4.cpp
+	<iostream>
+
